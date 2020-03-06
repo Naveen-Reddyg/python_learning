@@ -1,6 +1,6 @@
-x=1
-print x
+def test:
+    return naveen
 
-abc
-
+if __name__=="__main__":
+    test
 
