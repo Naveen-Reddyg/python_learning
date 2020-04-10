@@ -12,7 +12,3 @@ print(x)
 
 n  = "Naveen"
 print(n)
-
-# COMMAND ----------
-
-spark = SparkSession.build.getOrCreate()
