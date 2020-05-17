@@ -1,0 +1,38 @@
+Important functions
+
+l = [12,43,23,49,53,24]
+
+1) len(list)
+    len(l)
+2) count(x)   ---> element in list
+    l.count(43)
+3) index(x)   ---> get the x element index from list
+    l.index(23)
+
+
+Manipulating list
+
+1) append()
+    l.append(30)
+2) insert() ---> To insert element at specific index
+    l.insert(1,20)  --> 1 index and 20 value
+    append vs insert() --> append only inserts at the end but insert adds based on index
+3) extend() ---> adds all elemts
+    l = ['a','b','c']
+    l2 = ['w','q']
+    l.extend(l2)  --> ['a',b','c','w','q']
+4) remove(x) and pop(index) or pop()
+
+5) reverse()
+6) sort()
+7) copy()
+8) clear()
+
+CompareList objects
+1) ==, !=
+2) <,>,>=,<=
+
+
+Nested Lists:
+
+
