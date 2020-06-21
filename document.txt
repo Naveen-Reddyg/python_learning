@@ -1,0 +1,64 @@
+String Methods
+
+s.find(substring)  --> find the index of the sub string from string string
+
+Strip the strings
+
+strip --> removes the white spaces from both left and right sides
+lstrip --> removes the spaces at the begining of String
+rstrip --> removes the spaces at the begining of String
+
+count string
+
+s.count(substring) --> counts the occurence of substring in string string
+s.count(substring,begin,end) --> from begin index to the end-1 index substring
+
+replace string
+
+s.replace(oldstring,new string) --> replaces old string with new string
+eg: s = "Durga sof"
+s.replace("sof","soft")
+Durga soft
+
+splitting of String:
+
+s.split(separator)  --> split the string based on separator
+eg: 
+s = "Durga sof sol"
+l = s.split()
+print(l)   --> ['Durga','sof','sol']
+
+s.rsplit(separator)  --> split the string based on separator in reverse
+
+s.split(separator, num) --> splits the string based on separator till the number
+
+
+join() --> will use to join the separator in the list
+eg:
+s = ['durga','soft','sol']
+l = "-".join(s)
+print(l)  --> durga-soft-sol
+
+
+changing case of a strings
+
+upper() ==> to convert to upper case
+lower()
+swapcase() --> lower to upper and upper to lower case
+title() ==> The Python Classes By Durga
+capitalize() --> The python classes by durga
+
+
+Checking starting and ending part of the string
+
+s.startswith('learning') --> check the string starts with substring
+s.endswith('learning')   --> check the string ends witg substring
+
+
+
+
+
+
+
+
+
