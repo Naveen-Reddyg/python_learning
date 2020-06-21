@@ -5,4 +5,4 @@ if x % 2 == 0:
 else:
     print("Odd number")
 
-print("If else condition example")
+print("If else condition example ")
