@@ -12,5 +12,4 @@ arr = [1,3,4,2,54,-3]
 n = len(arr)
 ans = smallestNum(arr,n)
 
-
 print("smallest number of array {0} is {1}".format(arr,ans))
