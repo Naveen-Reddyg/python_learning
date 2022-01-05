@@ -1,0 +1,16 @@
+Functions:
+    Function is the block of code that will be used to run the code when called and we can use to run multple purpose
+
+    Defining a function:
+        Function always starts with a keyword def and with some name of functio then the paranthesis()
+        Every function is indented to be used with colon :
+        
+# def a function
+# def a function with parameters
+# function with unlimited arguments *arg
+# function with keywords
+# function with arbitraty keywords **kwargs
+# function with default values
+# passing the list as an argument
+# return a value to the function
+# function with passing a stmt pass
