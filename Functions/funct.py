@@ -1,5 +1,6 @@
+#function definition
 def func():
-    print("function")
+    print("Inside the function")
 
-
+#calling function
 func()
