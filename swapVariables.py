@@ -1,7 +1,7 @@
 # Python program to swap two variables
 
-val1 = int(input("Enter a number"))
-val2 = int(input("Enter a number"))
+val1 = int(input("Enter a number "))
+val2 = int(input("Enter a number "))
 
 temp = val1
 val1 = val2
