@@ -1,6 +1,6 @@
 # Evaluate the values type automatically
 
-ex = input("ENter an expression")
+ex = input("Enter an expression")
 print(type(eval(ex)))
 
 # ex = 12
