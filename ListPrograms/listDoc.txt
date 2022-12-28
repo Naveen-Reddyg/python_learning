@@ -1,0 +1,17 @@
+
+
+List is the collection of similar or different types of data. we use square brackets to store data as list.
+    suppose we want to store a group of numbers in list we can store lie
+    e.g:    [1,2,3,4]
+    we can use list to store different data type values as well like
+    e.g: ["naveen",3,4,4.5]
+
+we can create a list like below
+1) num = [1,2,3]
+
+we can access the elements of a list by using the index from the list. index is basically location where the
+    elements store
+    e.g: to access the number 3 from the above variable num is n[2] here we are using index 2 because in list
+    the index numbers starts from 0 and increments by 1 from left to right.
+        We can even access data from right to left as well by using the negative index where the index will starts
+    from -1. We can get the result 3 by using num[-1]
