@@ -11,7 +11,7 @@ we can create a list like below
 
 ## Access values from list:
 
-we can access the elements of a list by using the index from the list. index is basically location where the
+    we can access the elements of a list by using the index from the list. index is basically location where the
     elements store
     e.g: to access the number 3 from the above variable num is n[2] here we are using index 2 because in list
     the index numbers starts from 0 and increments by 1 from left to right.
@@ -20,19 +20,19 @@ we can access the elements of a list by using the index from the list. index is 
 
 ## Slicing of python list:
 
-    We can get the values by using the list, and also we can get the group of words by slicing the list like below
+    We can get the group of values by slicing the list, and also we can get the group of words by slicing the list like below
 
-suppose we have a list with couple of letters
+    suppose we have a list with couple of letters
 
-str = ['h','e','l','l','o','w','o','r','l','d']
+    str = ['h','e','l','l','o','w','o','r','l','d']
 
-we can get the first 5 letters from the above list by using the str[0:4]  ===> ['h','e','l','l','o']
-and we can also use the negative index i.e we can get the values from the right side.
+    we can get the first 5 letters from the above list by using the str[0:4]  ===> ['h','e','l','l','o']
+    and we can also use the negative index i.e we can get the values from the right side.
 
 ## Adding element to the list:
     python provides different methods to add the elements to the list, where we can use this by add elements to the list
     
-     ** append() **
+    ** append() **
         by using the append() method we can add the element at the end of the list
         e.g:  test = [1,2,3,4]
             
