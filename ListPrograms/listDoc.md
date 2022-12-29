@@ -32,7 +32,7 @@ and we can also use the negative index i.e we can get the values from the right 
 ## Adding element to the list:
     python provides different methods to add the elements to the list, where we can use this by add elements to the list
     
-     * append() *
+     ** append() **
         by using the append() method we can add the element at the end of the list
         e.g:  test = [1,2,3,4]
             
@@ -41,7 +41,7 @@ and we can also use the negative index i.e we can get the values from the right 
         
         output: [1,2,3,4,5]
     
-    * extend() *
+    ** extend() **
         By using the extend() method we can add all the elements of one list to another
         But the elements will be added at the end of initial list
         e.g: even_numbers = [2,4,6,8]
