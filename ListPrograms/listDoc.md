@@ -34,7 +34,7 @@ we can create a list like below
     python provides different methods to add the elements to the list, where we can use this by add elements to the list
     
     append()
-        by using the append() method we can add the element at the end of the list
+        By using the append() method we can add the element at the end of the list
         e.g:  test = [1,2,3,4]
             
         we can add the number 5 to the list by using the append method like
@@ -54,15 +54,15 @@ we can create a list like below
 
 ## Changing the Values in the list
 
-As we know python lists are mutable so we can change the values of the list by using the index and replace with other items.
-
-e.g: fruits = ['apple','banana','grapes']
-
-here we want to replace the banana fruit with melon like below
-    fruits[1] = 'melon'
-
-finally when we print the fruits we get the below values
-    output: fruits = ['apple','melon','grapes']
+    As we know python lists are mutable so we can change the values of the list by using the index and replace with other items.
+    
+    e.g: fruits = ['apple','banana','grapes']
+    
+    here we want to replace the banana fruit with melon like below
+        fruits[1] = 'melon'
+    
+    finally when we print the fruits we get the below values
+        output: fruits = ['apple','melon','grapes']
 
 
 ## Removing an element from the list
@@ -90,3 +90,4 @@ we have different methods available to delete the values from the list.
         fruits.remove('banana')
     the result list will be ==> ['apple','grapes']
     
+
