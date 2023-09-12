@@ -14,4 +14,9 @@ print("Hello" + input("what is your name?"))
 name = input("what is your name?")
 print("Hello " + name)
 
+# Project : Read different values from the user and merge it in to a string to create as a band
+print("welcome to Band!")
+city = input("what is the city are you from?")
+pet = input("what pet do you have?")
+print("Hello am from "+ city + " and my pet is" + pet)
 
